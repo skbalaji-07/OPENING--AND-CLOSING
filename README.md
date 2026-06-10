@@ -29,8 +29,8 @@ Use Closing Operation
  
 ## Program:
 ```
-Developed by: Divya A
-Reg.No: 230502007
+Developed by: SK balaji
+Reg.No: 230503001
 ```
 
 ```python
